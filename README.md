@@ -2,7 +2,7 @@
 
 A dummy issue tracker app.
 
-[App demo](http://faisalcep.github.io/issue-tracker)
+[App demo](https://dsfaisal.github.io/issue-tracker)
 
 ### Technology
 
